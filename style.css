@@ -1,0 +1,20 @@
+#submit{
+    background-color: rgb(0, 255, 106);
+}
+.input{
+    margin: 20px;
+}
+body{
+    background-color: blue;
+}
+#paragraph{
+    color: white;
+    background-color: green;
+    width: 50%;
+    height: 300px;
+    border-radius: 50px;
+    size: 10px;
+}
+.span{
+    color:white;
+}
